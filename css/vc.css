@@ -50,6 +50,7 @@ nav > a{
 
 nav > a:hover{
     text-decoration: underline;
+    ;
 }
 
 header .textos-header{
@@ -80,10 +81,3 @@ header .textos-header{
     width: 100%;
 }
 
-/*about us*/
-
-.contenedor-sobre-nosostros{
-    display: flex;
-    justify-content: space-evenly;
-    font-size: xx-large};
-}
